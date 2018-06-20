@@ -1,5 +1,5 @@
-#define trigPin = 9;
-#define echoPin = 10;
+#define trigPin 9
+#define echoPin 10
 
 // defines variables
 long duration;
